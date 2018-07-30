@@ -18,7 +18,7 @@ public class Solution {
         }
         System.out.println(consecutive1);
         
-//        You can also you a for loop, like the one below or replace the while loop:
+//        You can also use a for loop, like the one below or replace the while loop:
 
 //        for (int i = remainder.size() - 1; i >= 0; i--){
 //            if (remainder.get(i) == 0){
