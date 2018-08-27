@@ -7,7 +7,7 @@ class Solution {
         int n = scan.nextInt();
         scan.close();
 
-        AdvancedArithmetic myCalculator = new Calculatorx();
+        AdvancedArithmetic myCalculator = new Calculator();
         int sum = myCalculator.divisorSum(n);
         System.out.println("I implemented: " + myCalculator.getClass().getInterfaces()[0].getName() );
         System.out.println(sum);
